@@ -12,7 +12,7 @@ Banco de dados H2
 ## Executar a aplicação
 A aplicação foi criada sobre microserviço. Seguir a sequência de execução abaixo:
 
-![image](https://user-images.githubusercontent.com/16020782/133161225-f44085f4-2b7f-43c3-b45f-9bf7762fee4b.png)
+![image](https://user-images.githubusercontent.com/16020782/185726031-59cbad21-b7fe-4150-8432-2ed379f3fdcc.png)
 
 1. Executar o Discovery
 ```shell script
